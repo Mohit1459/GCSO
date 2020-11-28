@@ -1,2 +1,2 @@
 # GCSO
-color_changing_ball
+GCSO
